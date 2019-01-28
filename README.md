@@ -1,2 +1,1 @@
-ini adalah catetan Bagus
-buat belajar machine Learning
+This is my note about learning Machine Learning with TensorFlow
